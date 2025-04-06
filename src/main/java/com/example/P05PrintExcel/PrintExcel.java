@@ -7,8 +7,8 @@ import java.io.*;
 import java.util.*;
 
 public class PrintExcel {
-    public static final String INPUT_FILE_PATH = "C:\\Users\\yordan\\OneDrive\\Desktop\\input.xlsx";
-    public static final String OUTPUT_FILE_PATH = "C:\\Users\\yordan\\OneDrive\\Desktop\\filtered_data.xlsx";
+    public static final String INPUT_FILE_PATH = "input.xlsx";
+    public static final String OUTPUT_FILE_PATH = "filtered_data.xlsx";
 
     public static void processExcel() throws IOException {
 
